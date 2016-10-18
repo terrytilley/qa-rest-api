@@ -1,16 +1,25 @@
 {
   "name": "qa-rest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A question and answer app",
   "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrytilley/qa-rest-api.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.13.4"
-  }
+  "bugs": {
+    "url": "https://github.com/terrytilley/qa-rest-api/issues"
+  },
+  "homepage": "https://github.com/terrytilley/qa-rest-api#readme"
 }
