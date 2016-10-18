@@ -4,6 +4,7 @@
   "description": "A question and answer app",
   "main": "app.js",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.13.4"
   },
   "devDependencies": {},
